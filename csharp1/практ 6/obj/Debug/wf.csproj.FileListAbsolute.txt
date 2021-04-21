@@ -1,0 +1,22 @@
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\bin\Debug\практ 6.exe.config
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\bin\Debug\практ 6.exe
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\bin\Debug\практ 6.pdb
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\wf.csprojAssemblyReference.cache
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form1.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form10.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form11.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form12.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form13.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form2.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form3.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form4.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form5.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form6.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form7.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form8.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form9.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Properties.Resources.resources
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\wf.csproj.GenerateResource.cache
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ 6.exe
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ 6.pdb
+D:\IS1-21 VAHAPOV 2 SEMESTR\C#\cnhjrb 2\wf\практ 6\obj\Debug\практ_6.Form14.resources
